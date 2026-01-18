@@ -4,9 +4,6 @@
 
 <img src="./assets/demo.gif" alt="Flashcard Generator" width="100%" />
 
-
-A fully automated pipeline that generates print-ready, **double-sided** (Front: Question / Back: Answer) A4 PDF math flashcards using custom image assets. Features include automatic **difficulty-based color coding**, asset pluralization via local AI, card compositing, and PDF layout.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pillow-TEST?style=for-the-badge&color=blue" alt="Pillow" />
@@ -17,6 +14,10 @@ A fully automated pipeline that generates print-ready, **double-sided** (Front: 
 </div>
 
 ---
+
+
+A fully automated pipeline that generates print-ready, **double-sided** (Front: Question / Back: Answer) A4 PDF math flashcards using custom image assets. Features include automatic **difficulty-based color coding**, asset pluralization via local AI, card compositing, and PDF layout.
+
 
 ## How to Use
 
