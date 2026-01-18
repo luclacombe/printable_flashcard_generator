@@ -4,7 +4,7 @@
 
 <img src="./assets/demo.gif" alt="Flashcard Generator" width="100%" />
 
-
+</br>
 A fully automated pipeline that generates print-ready, **double-sided** (Front: Question / Back: Answer) A4 PDF math flashcards using custom image assets. Features include automatic **difficulty-based color coding**, asset pluralization via local AI, card compositing, and PDF layout.
 
 <p align="center">
@@ -27,7 +27,7 @@ To create a new set of flashcards, you need to provide the images.
 2.  Create a new folder with the name of your asset pack (e.g., `Vehicles`, `Toys`, `Mythical Creatures`).
     * *i.e.* **Example:** The project comes with an example folder: `/input/Assets/Animals/`.
 3.  Inside your folder, place your image files.
-    * **Format:** `.png` (Transparent background recommended).
+    * **Format:** `.png` (Transparent/#FFFFFF background).
     * **Dimensions:** 1000x1000px.
     * **Naming:** File names must be the **singular** version of the object (e.g., `Cat.png`, `Lion.png`, `Bird.png`). The script uses AI to figure out the plurals for the cards.
 
