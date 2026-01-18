@@ -1,5 +1,6 @@
 <div align="center">
-# Python Math Flashcard Generator
+
+  # Python Math Flashcard Generator
 
 <img src="./assets/demo.gif" alt="Flashcard Generator" width="100%" />
 
