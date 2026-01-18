@@ -16,7 +16,7 @@
 ---
 
 
-A fully automated pipeline that generates print-ready, **double-sided** (Front: Question / Back: Answer) A4 PDF math flashcards using custom image assets. Features include automatic **difficulty-based color coding**, asset pluralization via local AI, card compositing, and PDF layout.
+A fully automated pipeline that generates print-ready, **double-sided** (Front: Question / Back: Answer) math flashcards using your own custom image assets. Features include automatic **difficulty-based color coding**, asset pluralization via local AI, card compositing, and PDF layout.
 
 
 ## How to Use
