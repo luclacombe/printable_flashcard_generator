@@ -1,4 +1,5 @@
 Pillow
 reportlab
-PyPDF2
-ollama
+pypdf
+inflect
+streamlit
